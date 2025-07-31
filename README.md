@@ -11,7 +11,7 @@
   - [OsTicket Lab on Azure](https://github.com/stevenbcyber/AzureLabOsTicket)
 
 - <b>Python</b>
-   - [Simple Python Port Scanner]()
+   - [Simple Python Port Scanner](https://github.com/stevenbcyber/PythonPortScanner)
 
 - <b>Technician Practice</b>
   - [Replacing a battery in an iPhone 8 Plus]()
