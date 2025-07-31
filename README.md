@@ -8,7 +8,7 @@
   - [Active Directory Home Lab](https://github.com/stevenbcyber/ActiveDirectoryLab)
 
 - <b>Ticketing System Set up with OsTicket on Azure</b>
-  - [OsTicket Lab on Azure]()
+  - [OsTicket Lab on Azure](https://github.com/stevenbcyber/AzureLabOsTicket)
 
 - <b>Python</b>
    - [Simple Python Port Scanner]()
