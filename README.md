@@ -1,6 +1,6 @@
 <h1>Hi, I'm Steven, an <a href="https://www.linkedin.com/in/steven-bealle/">IT Professional</a>😊</h1>
 
-<h2>👨‍💻 Cybersecurity Projects </h2>
+<h2>👨‍💻 Cybersecurity Projects: </h2>
 
 - <b>Home SOC in Azure</b>
   - [Security Operations Centre in Azure]()
