@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
 - <b>Home SOC in Azure</b>
-  -[Security Operations Centre in Azure]()
+  - [Security Operations Centre in Azure]()
 
 - <b>Vulnerability Management Lab with Tenable in Azure</b>
-  -[Vulnerability Management Lab]()
+  - [Vulnerability Management Lab]()
 
 <h2>👨‍💻 IT Projects:</h2>
 
