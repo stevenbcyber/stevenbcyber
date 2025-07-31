@@ -19,7 +19,7 @@
 - <b>Python</b>
    - [Simple Python Port Scanner](https://github.com/stevenbcyber/PythonPortScanner)
 
-- <b>Technician Practice</b>
+- <b>IT Technician Hands-on work</b>
   - [Replacing a battery in an iPhone 8 Plus](https://github.com/stevenbcyber/iPhoneBatteryReplacement)
 
 <h2>📺 YouTube Videos</h2>
