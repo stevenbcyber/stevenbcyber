@@ -2,6 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
+- <b>Home SOC in Azure</b>
+  -[Security Operations Centre in Azure]()
+
+- <b>Vulnerability Management Lab with Tenable in Azure</b>
+  -[Vulnerability Management Lab]()
+
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory</b>
@@ -14,7 +20,7 @@
    - [Simple Python Port Scanner](https://github.com/stevenbcyber/PythonPortScanner)
 
 - <b>Technician Practice</b>
-  - [Replacing a battery in an iPhone 8 Plus]()
+  - [Replacing a battery in an iPhone 8 Plus](https://github.com/stevenbcyber/iPhoneBatteryReplacement)
 
 <h2>📺 YouTube Videos</h2>
 
