@@ -7,7 +7,7 @@
 - <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/stevenbcyber/ActiveDirectoryLab)
 
-- <b>Ticketing System Set up with OsTicket on Azure</b>
+- <b>Azure and OSTicket System</b>
   - [OsTicket Lab on Azure](https://github.com/stevenbcyber/AzureLabOsTicket)
 
 - <b>Python</b>
