@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects: </h2>
 
 - <b>Home SOC in Azure</b>
-  - [Security Operations Centre in Azure]()
+  - [Security Operations Centre in Azure](https://github.com/stevenbcyber/securityoperationscentreinazure)
 
 - <b>Vulnerability Management Lab with Tenable in Azure</b>
   - [Vulnerability Management Lab]()
