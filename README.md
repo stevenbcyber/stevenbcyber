@@ -1,32 +1,32 @@
 <h1><a href="https://www.linkedin.com/in/steven-bealle/">Steven Bealle</a>'s IT and Cybersecurity Project Portfolio😊</h1>
 
-Hi, I'm Steven! I'm passionate about cybersecurity and I love taking on complexe challenges through hands-on projects. From vulnerability management to threat detection, these projects below allow me to get involved in the ever-evolving field of cybersecurity. Please feel free to check them out and see some of the work I've put into enhancing security operations and processes!
+Hi, I'm Steven! I'm passionate about cybersecurity and I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects below allow me to dive deep into the ever-evolving world of cybersecurity. Please feel free to check them out and see some of the work I've put into enhancing security operations and processes!
 
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
-- <b>Vulnerability Management Projects</b>
+- <b>⚠️Vulnerability Management Projects</b>
   - [Vulnerability Management Program Implementation]()
   - [Programmatic Vulnerability Remediations]()
  
-- <b>Security Operation and Incident Response Projects</b>
+- <b>🚨Security Operation and Incident Response Projects</b>
   - [Creation of a Mini SOC and Honeynet](https://github.com/stevenbcyber/securityoperationscentreinazure)
   - [Threathunting Detection Use Cases]()
 
-- <b>Threat Hunt Projects with Microsoft Sentinel and Defender for Enpoint</b>
+- <b>🎯Threat Hunt Projects with Microsoft Sentinel and Defender for Enpoint</b>
   - [Crosscheck: Unauthorized manoevres]()
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Active Directory</b>
+- <b>🗂️Active Directory</b>
   - [Active Directory Home Lab](https://github.com/stevenbcyber/ActiveDirectoryLab)
 
-- <b>Azure and OSTicket System</b>
+- <b>🎫Azure and OSTicket System</b>
   - [OsTicket Lab on Azure](https://github.com/stevenbcyber/AzureLabOsTicket)
 
-- <b>Python</b>
+- <b>🐍Python</b>
    - [Simple Python Port Scanner](https://github.com/stevenbcyber/PythonPortScanner)
 
-- <b>IT Technician Hands-on work</b>
+- <b>🪛IT Technician Hands-on work</b>
   - [Replacing a battery in an iPhone 8 Plus](https://github.com/stevenbcyber/iPhoneBatteryReplacement)
 
 <h2>📺 YouTube Videos</h2>
