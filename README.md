@@ -8,6 +8,9 @@
 - <b>Vulnerability Management Lab with Tenable in Azure</b>
   - [Vulnerability Management Lab]()
 
+- <b>Threat Hunt Projects with Microsoft Sentinel and Defender for Enpoint</b>
+  - [Crosscheck: Unauthorized activity]()
+
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory</b>
