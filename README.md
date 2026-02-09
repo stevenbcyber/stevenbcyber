@@ -1,15 +1,17 @@
 <h1>Hi, I'm Steven, an <a href="https://www.linkedin.com/in/steven-bealle/">IT Professional</a>😊</h1>
 
-<h2>👨‍💻 Cybersecurity Projects: </h2>
+<h2>👨‍💻 Cybersecurity Projects </h2>
 
-- <b>Home SOC in Azure</b>
-  - [Security Operations Centre in Azure](https://github.com/stevenbcyber/securityoperationscentreinazure)
-
-- <b>Vulnerability Management Lab with Tenable in Azure</b>
-  - [Vulnerability Management Lab]()
+- <b>Vulnerability Management Projects</b>
+  - [Vulnerability Management Program Implementation]()
+  - [Programmatic Vulnerability Remediations]()
+ 
+- <b>Security Operation and Incident Response Projects</b>
+  - [Creation of a Mini SOC and Honeynet](https://github.com/stevenbcyber/securityoperationscentreinazure)
+  - [Threathunting Detection Use Cases]()
 
 - <b>Threat Hunt Projects with Microsoft Sentinel and Defender for Enpoint</b>
-  - [Crosscheck: Unauthorized activity]()
+  - [Crosscheck: Unauthorized manoevres]()
 
 <h2>👨‍💻 IT Projects:</h2>
 
