@@ -11,7 +11,7 @@ Hi, I'm Steven! I'm passionate about cybersecurity and I love tackling complex c
   - [Creation of a Mini SOC and Honeynet](https://github.com/stevenbcyber/securityoperationscentreinazure)
   - [Threathunting Detection Use Cases]()
 
-- <b>🎯Threat Hunt Projects with Microsoft Sentinel and Defender for Enpoint</b>
+- <b>🎯Threat Hunt Projects with Microsoft Sentinel and Defender for Endpoint</b>
   - [Crosscheck: Unauthorized manoevres](https://github.com/stevenbcyber/ThreatHuntCrosscheck)
 
 <h2>👨‍💻 IT Projects:</h2>
