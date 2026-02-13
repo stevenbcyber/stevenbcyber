@@ -5,8 +5,7 @@ Hi, I'm Steven! I'm passionate about cybersecurity and I love tackling complex c
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
 - <b>⚠️Vulnerability Management Projects</b>
-  - [Vulnerability Management Program Implementation](https://github.com/stevenbcyber/VulnerabilityManagementProgram)
-  - [Programmatic Vulnerability Remediations]()
+  - [Vulnerability Management Program Implementation and Programmic Vulnerability Remediation](https://github.com/stevenbcyber/VulnerabilityManagementProgram)
  
 - <b>🚨Security Operation and Incident Response Projects</b>
   - [Creation of a Mini SOC and Honeynet](https://github.com/stevenbcyber/securityoperationscentreinazure)
